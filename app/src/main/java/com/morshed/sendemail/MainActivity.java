@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void senEmail() {
-        String mEmail ="shubho.techdynobd@gmail.com";
+        String mEmail ="";
         String mSubject = "Receive Order";
         String mMessage = "You receive another Order";
 
